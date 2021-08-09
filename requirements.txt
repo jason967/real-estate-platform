@@ -171,7 +171,7 @@ python-dateutil==2.7.3
 Python-EasyConfig==0.1.7
 pytz==2018.5
 PyWavelets==1.0.0
-pywin32==223
+pywin32==301
 pywin32-ctypes==0.2.0
 pywinpty==0.5.4
 PyYAML==3.13
